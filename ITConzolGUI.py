@@ -1,10 +1,3 @@
-# # Date: 13/10/2020
-# # Purpose: Chisholm IT console
-# # Author: Zane Pearton  
-
-
-# https://nmap.org/dist/nmap-7.91-win32.zip 
-
 
 import tkinter as tk
 from tkinter import * 
